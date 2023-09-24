@@ -2,7 +2,7 @@
 - 👀 Estou interessado em criações de interação
 - 🧭 Estou aprendendo sobre vercionamento de código com git e github 
 - 💞️ Estou procurando colaborar em projetos com o meu perfil
-- 📫 Como chegar até mim: flp.lima39@gmail.com
+- 📫 Como me encontrar: flp.lima39@gmail.com
   
 <!---
 Fernandolima43/Fernandolima43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
